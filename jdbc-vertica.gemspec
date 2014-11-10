@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["takahiro.nakayama@dena.com"]
   spec.summary       = %q{jdbc vertica driver.}
   spec.description   = %q{jdbc vertica driver.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/civitaspo/jdbc-vertica"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

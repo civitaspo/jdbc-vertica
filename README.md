@@ -1,6 +1,6 @@
 # Jdbc::Vertica
 
-TODO: Write a gem description
+Basic library for jdbc vertica.
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+see example files.
 
 ## Contributing
 
