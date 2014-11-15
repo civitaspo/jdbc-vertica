@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "jdbc-vertica"
   spec.version       = Jdbc::Vertica::VERSION
   spec.authors       = ["takahiro.nakayama"]
-  spec.email         = ["takahiro.nakayama@dena.com"]
+  spec.email         = ["civitaspo@gmail.com"]
   spec.summary       = %q{jdbc vertica driver.}
   spec.description   = %q{jdbc vertica driver.}
   spec.homepage      = "https://github.com/civitaspo/jdbc-vertica"
