@@ -29,3 +29,7 @@ see example files.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+## Inspired
+
+Jdbc::Vertica is inspired by ['Jdbc-mysql'](https://github.com/jruby/activerecord-jdbc-adapter/tree/master/jdbc-mysql).
