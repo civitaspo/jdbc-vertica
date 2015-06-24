@@ -5,3 +5,4 @@ gemspec
 gem 'activerecord-jdbc-adapter'
 gem 'dbd-jdbc'
 gem 'dbi'
+gem "dotenv"
