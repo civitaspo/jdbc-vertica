@@ -2,6 +2,10 @@
 
 Basic library for jdbc vertica.
 
+## Requirements
+
+* JRuby >= 1.7
+
 ## Installation
 
 Add this line to your application's Gemfile:
