@@ -5,7 +5,7 @@ Basic library for jdbc vertica.
 ## Caution
 
 Please make sure the below.
-**[vertica-jdbc-7.0.1-0.jar](./lib/vertica-jdbc-7.0.1-0.jar) is not under the MIT License. This follows [
+**Vertica jdbc drviers are not under the MIT License. This follows [
 Vertica Community Edition HP Software License Agreement](https://my.vertica.com/software-license-agreement/)**
 
 ## Requirements
